@@ -5,7 +5,10 @@ This repository contains my Power BI dashboards created as part of my data analy
 ---
 
 ## Project 1: Madhav Ecommerce Sales Dashboard
-![Madhav Ecommerce Sales Dashboard](project 1.png)
+
+
+![Madhav Ecommerce Sales Dashboard](project%201.png)
+
 
 **File:** `project 1.pbix`
 
